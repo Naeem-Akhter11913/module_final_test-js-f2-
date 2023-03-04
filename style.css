@@ -21,3 +21,9 @@ textarea{
     height: 8rem;
 }
 
+@media screen and (max-width: 400px){
+
+    span{
+        display: none;
+    }
+}
